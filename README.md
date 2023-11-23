@@ -17,7 +17,7 @@ class Function extends Appwrite {
 
     return {
         hello: 'world',
-    }
+    } 
   }
 }
 
